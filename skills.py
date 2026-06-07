@@ -1,0 +1,12 @@
+skill_list=[
+    "Python",
+    "Java",
+    "C++",
+    "JavaScript",
+    "SQL",
+    "HTML",
+    "CSS",
+    "SQL",
+    "Git",
+    "GitHub",
+    "Excel",]
